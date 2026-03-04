@@ -1,5 +1,5 @@
 // Pede dois números
-let num1 = Number(prompt("Digite o primeiro número:"));
+let num1 = Number(prompt("imferme o qyue vc quer?"));
 let num2 = Number(prompt("Digite o segundo número:"));
 
 // Pede a operação
